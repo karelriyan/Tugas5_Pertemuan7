@@ -1,16 +1,15 @@
 # tugas5_pertemuan7
 
-A new Flutter project.
+## Void Main
+untuk menjalankan aplikasi
 
-## Getting Started
+## Class MyApp
+untuk mendeklarasikan isi halaman menggunakan stateless widget karena statis
 
-This project is a starting point for a Flutter application.
+## CLass CalculatorPage
+untuk mendeklarasikan kalkulator. menggunakan stateful karena bersifat dinamis berdasarkan inputan user dan operasi yan gidpilih
 
-A few resources to get you started if this is your first Flutter project:
+## class _CalculatorPageState
+untuk melakukan perhitungan dan menentukan hasilnya
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
